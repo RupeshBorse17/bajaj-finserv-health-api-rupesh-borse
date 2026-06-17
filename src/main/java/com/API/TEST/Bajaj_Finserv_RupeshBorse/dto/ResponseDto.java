@@ -1,5 +1,7 @@
 package com.API.TEST.Bajaj_Finserv_RupeshBorse.dto;
 
+import org.springframework.web.bind.annotation.PostMapping;
+
 import java.util.List;
 import java.util.Map;
 
